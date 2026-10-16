@@ -1,0 +1,146 @@
+{
+  "siteName": "De Gouden Stap",
+  "tagline": "Stijl · Comfort · Kwaliteit",
+  "heroEyebrow": "STIJL · COMFORT · KWALITEIT",
+  "heroTitle": "Zet de juiste stap met stijl en comfort",
+  "heroText": "Welkom bij De Gouden Stap. Ontdek onze zorgvuldig samengestelde collectie schoenen van hoogwaardige kwaliteit voor elke gelegenheid.",
+  "aboutTitle": "Een stap met aandacht",
+  "aboutText": "Wij verzamelen schoenen voor verschillende momenten in het dagelijks leven: sport, werk, vrije tijd en de eerste stapjes.",
+  "craftTitle": "Vakmanschap tot in de kleinste details",
+  "craftText": "Een collectie samengesteld met oog voor stijl en draagcomfort.",
+  "ctaTitle": "Klaar voor jouw volgende stap?",
+  "ctaText": "Bekijk alle schoenen in onze collectie.",
+  "contactTitle": "Neem contact met ons op",
+  "contactEmail": "info@degoudenstap.nl",
+  "contactPhone": "+31 6 12 34 56 78",
+  "contactAddress": "Nederland",
+  "colors": {
+    "primary": "#3f5c59",
+    "accent": "#8fcbd1",
+    "light": "#f4f3ef",
+    "text": "#334542"
+  },
+  "categories": [
+    {
+      "name": "Voetbalschoenen",
+      "description": "Nike Mercurial, adidas Predator en Puma Future.",
+      "image": "assets/voetbal.jpg"
+    },
+    {
+      "name": "Werkschoenen",
+      "description": "Grisport, HKS en Steel Blue.",
+      "image": "assets/werkschoenen.jpg"
+    },
+    {
+      "name": "Kinderen",
+      "description": "Modellen voor kinderen en eerste stapjes.",
+      "image": "assets/kinderen.jpg"
+    },
+    {
+      "name": "Casual",
+      "description": "Sneakers en bekende dagelijkse modellen.",
+      "image": "assets/casual.jpg"
+    },
+    {
+      "name": "Water & strand",
+      "description": "Aquashoes en schoenen voor strand en zwemmen.",
+      "image": "assets/water.jpg"
+    },
+    {
+      "name": "Slippers",
+      "description": "Comfortabele slippers voor warme dagen.",
+      "image": "assets/slippers.jpg"
+    },
+    {
+      "name": "Zakelijk",
+      "description": "Nette schoenen voor zakelijke gelegenheden.",
+      "image": "assets/zakelijk.jpg"
+    }
+  ],
+  "products": [
+    {
+      "name": "Nike Mercurial Vapor 16",
+      "category": "Voetbalschoenen",
+      "image": "assets/nike-mercurial.jpg",
+      "description": "Lichte voetbalschoen voor snelheid en controle.",
+      "buyUrl": ""
+    },
+    {
+      "name": "adidas Predator Elite",
+      "category": "Voetbalschoenen",
+      "image": "assets/voetbal.jpg",
+      "description": "Controle en grip voor op het veld.",
+      "buyUrl": ""
+    },
+    {
+      "name": "Puma Future 9",
+      "category": "Voetbalschoenen",
+      "image": "assets/voetbal.jpg",
+      "description": "Flexibele voetbalstijl met comfortabele pasvorm.",
+      "buyUrl": ""
+    },
+    {
+      "name": "Grisport 803 S3",
+      "category": "Werkschoenen",
+      "image": "assets/werkschoenen.jpg",
+      "description": "Stevige veiligheidsschoen voor dagelijks werk.",
+      "buyUrl": ""
+    },
+    {
+      "name": "HKS RS 270 S3 BOA",
+      "category": "Werkschoenen",
+      "image": "assets/werkschoenen.jpg",
+      "description": "Praktische veiligheid en een snelle sluiting.",
+      "buyUrl": ""
+    },
+    {
+      "name": "Steel Blue Parkes ZIP S3",
+      "category": "Werkschoenen",
+      "image": "assets/werkschoenen.jpg",
+      "description": "Comfortabele werkschoen met stevige bescherming.",
+      "buyUrl": ""
+    },
+    {
+      "name": "Nike Air Force 1",
+      "category": "Casual",
+      "image": "assets/home-sneakers.jpg",
+      "description": "Tijdloze sneaker voor elke dag.",
+      "buyUrl": ""
+    },
+    {
+      "name": "New Balance 530",
+      "category": "Casual",
+      "image": "assets/casual.jpg",
+      "description": "Sportieve retrostijl met comfort.",
+      "buyUrl": ""
+    },
+    {
+      "name": "UGG Classic Mini",
+      "category": "Slippers",
+      "image": "assets/slippers.jpg",
+      "description": "Zachte, warme stijl voor ontspannen momenten.",
+      "buyUrl": ""
+    },
+    {
+      "name": "Birkenstock Boston",
+      "category": "Slippers",
+      "image": "assets/slippers.jpg",
+      "description": "Comfortabele klassieker voor thuis en onderweg.",
+      "buyUrl": ""
+    },
+    {
+      "name": "Clarks Wallabee",
+      "category": "Zakelijk",
+      "image": "assets/zakelijk.jpg",
+      "description": "Iconische schoen met nette uitstraling.",
+      "buyUrl": ""
+    },
+    {
+      "name": "Timberland 6 Inch Premium",
+      "category": "Werkschoenen",
+      "image": "assets/home-instappers.jpg",
+      "description": "Robuuste boot voor stevige dagen.",
+      "buyUrl": ""
+    }
+  ]
+}
